@@ -1,29 +1,30 @@
 # About
 
 Software developer focused on building practical applications and understanding systems end-to-end.  
-I value simple solutions, clean structure, and code that’s easy to maintain and ship.
+I care about clean structure, maintainability, and shipping things that actually work.
 
-## Skills
+## Tech Stack
 
 ### Languages
-- C#
-- PHP
-- Python
-- Java
-- JavaScript
+![C#](https://skillicons.dev/icons?i=cs)
+![PHP](https://skillicons.dev/icons?i=php)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 ### Frameworks & Libraries
-- Bootstrap
-- Lit
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Lit](https://skillicons.dev/icons?i=lit)
 
 ### Tools & Platforms
-- Git & GitHub
-- Unity
-- WordPress
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Unity](https://skillicons.dev/icons?i=unity)
+![WordPress](https://skillicons.dev/icons?i=wordpress)
 
 ### Databases
-- PostgreSQL
-- MySQL
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ## Contact
-- Email: dogulolxd@gmail.com
+📧 dogulolxd@gmail.com
