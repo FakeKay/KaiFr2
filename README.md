@@ -1,3 +1,5 @@
+# Graduated Software Developer and studying Bachelors Degree Software Developer
+
 # About
 
 Software developer focused on building practical applications and understanding systems end-to-end.  
